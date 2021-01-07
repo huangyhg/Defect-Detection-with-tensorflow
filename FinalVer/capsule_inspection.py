@@ -292,8 +292,8 @@ def train(opech, is_continnue_train=False):
                 #                 dd += 1
                 # print('完整20: ' + str(aa) + ' ' + str((aa/20)*100) + '%')
                 # print('凹陷20: ' + str(bb) + ' ' + str((bb/20)*100) + '%')
-                # print('帽子20: ' + str(cc) + ' ' + str((cc/20)*100) + '%')
-                # print('身体20: ' + str(dd) + ' ' + str((dd/20)*100) + '%')
+                # print('缺帽子20: ' + str(cc) + ' ' + str((cc/20)*100) + '%')
+                # print('缺身体20: ' + str(dd) + ' ' + str((dd/20)*100) + '%')
                 # flg = True
 
 
